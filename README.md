@@ -10,3 +10,5 @@ Langkah 1: Menjelaskan Pernyataan Masalah.
 Langkah 2: Memahami Data.  
 Langkah 3: Pra-pemrosesan Data, langkah ini mencakup: Mengelola tipe data, memeriksa kesalahan karakterisasi, menangani outlier, memeriksa nilai yang berada di luar jangkauan, mengisi atau menghapus nilai yang hilang, menghapus data duplikat.  
 Langkah 4: Analisis Data, Visualisasi, Wawasan, dan Rekomendasi untuk setiap pernyataan masalah.
+
+Untuk visualisasi menggunakan Tableau dapat dilihat di link berikut https://public.tableau.com/app/profile/agung.pratama.putra/viz/AgungPratama_AWSSaaSSalesDataset/Dashboard1
