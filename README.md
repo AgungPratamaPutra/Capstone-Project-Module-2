@@ -1,7 +1,7 @@
 # Analisis Amazon AWS SaaS Sales Dataset
 Perusahaan SaaS adalah perusahaan yang menjual berbagai macam perangkat lunak kepada perusahaan lain (B2B). Perusahaan tersebut kemudian mengumpulkan data transaksi dari pelanggan mereka dan mempekerjakan seorang data scientist untuk menganalisis dataset tersebut agar mereka dapat memperoleh wawasan lebih untuk meningkatkan kinerja perusahaan di masa depan.
 
-Dataset disimpan dan dapat dilihat di SaaS-Sales.csv.  
+Dataset disimpan dan dapat dilihat di #SaaS-Sales.csv.  
 Dataset tersebut telah dianalisis dan dapat dilihat di .  
 Kedua file tersebut ada di repositori ini.
 Analisis dilakukan dengan mengikuti berbagai langkah sebagai berikut:
